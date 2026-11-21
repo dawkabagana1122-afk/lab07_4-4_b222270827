@@ -1,0 +1,8 @@
+HTTP/1.1 201 Created
+Content-Type: application/json
+Date: Sat, 21 Nov 2026 12:09:29 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
+{"result":"OK","id":5}
